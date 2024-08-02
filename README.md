@@ -1,4 +1,4 @@
-# Sangeet Guru [(https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
+# Sangeet Guru [![Mentioned in Awesome OpenVINO](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/openvinotoolkit/awesome-openvino)
 
 **Sangeet Guru** is a music generation app that allows users to create custom audio tracks based on their input style descriptions. It combines the power of FastAPI for backend processing and Streamlit for a user-friendly frontend interface.
 ![image](https://github.com/user-attachments/assets/ddfa0799-7725-4547-bf31-4f034f72fe34)
